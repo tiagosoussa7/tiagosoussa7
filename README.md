@@ -1,11 +1,11 @@
 ### _Olá! eu sou Tiago Ítalo, estudante em transição de carreira_ 👋
 
-- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🎓 Estudo JavaScrip, HTML e CSS na DIO
-- 🎓 Estudante do programa de capacitação em Front-end da Oracle Next Education
-- 🏐 Praticante de esportes: volei de praia, ciclismo e corrida
-- 😄 Trabalhos voluntários  
-- 🎮 Fã de games: The Last of Us, Horizon Zero Down, God of War...
+- 🎓  _Sou estudante de Análise e Desenvolvimento de Sistemas_
+- 🎓  _Estudo JavaScrip, HTML e CSS na DIO_
+- 🎓  _Estudante do programa de capacitação em Front-end da Oracle Next Education_
+- 🏐  _Praticante de esportes: volei de praia, ciclismo e corrida_
+- 😄  _Trabalhos voluntários_  
+- 🎮  _Fã de games: The Last of Us, Horizon Zero Down, God of War..._
 
 <div align="center">
   <a href="https://github.com/tiagosoussa7">
