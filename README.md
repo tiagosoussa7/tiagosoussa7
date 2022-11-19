@@ -2,10 +2,10 @@
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🎓 Estudo JavaScrip, HTML e CSS na DIO
-- 🎓 Participo do programa de capacitação em Front-end da Oracle Next Education
+- 🎓 Estudante do programa de capacitação em Front-end da Oracle Next Education
 - 🏐 Praticante de esportes: volei de praia, ciclismo e corrida
 - 😄 Trabalhos voluntários  
-- 🎮 Fã de games 
+- 🎮 Fã de games: The Last of Us, Horizon Zero Down, God of War...
 
 <div align="center">
   <a href="https://github.com/tiagosoussa7">
