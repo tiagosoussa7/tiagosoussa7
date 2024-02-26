@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7afff6&height=90&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e8cd&size=40&center=true&vCenter=true&width=1000&lines=Olá.;+Me+chamo+Tiago+Ítalo.;Eu+sou;Full+Stack+Web+Developer.;Analista+e+Desenvolvedor+de+Sistemas.;Analista+de+Banco+de+Dados.)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/portfolio%20-F7DF1E?style=for-the-badge&logo=About.me&logoColor=000"</a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=0d1117&color=00e8cd&line=00e8cd&point=00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=0d1117&color=00e8cd&line=00e8cd&point=e7e709&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -34,4 +34,4 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7afff6&height=90&section=footer"/>
