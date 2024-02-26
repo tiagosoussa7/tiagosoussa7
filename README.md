@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=100&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e8cd&size=25&center=true&vCenter=true&width=1000&lines=Olá.;+Me+chamo+Tiago+Ítalo.;Eu+sou;Full+Stack+Web+Developer.;Analista+e+Desenvolvedor+de+Sistemas.;Analista+de+Banco+de+Dados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e8cd&size=35&center=true&vCenter=true&width=1000&lines=Olá.;+Me+chamo+Tiago+Ítalo.;Eu+sou;Full+Stack+Web+Developer.;Analista+e+Desenvolvedor+de+Sistemas.;Analista+de+Banco+de+Dados.)](https://git.io/typing-svg)
 
 
 ###### _Olá! Bem-vindo ao meu perfil do GitHub, sou um estudante universitário apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar, além do curso de Banco de Dados na Estácio. Recentemente, aprimorei minhas habilidades concluindo um curso de Backend em JavaScript pela Cubos Academy, buscando sempre me manter atualizado com as mais recentes tecnologias e práticas de desenvolvimento._
