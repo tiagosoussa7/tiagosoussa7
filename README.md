@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=90&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e8cd&size=40&center=true&vCenter=true&width=1000&lines=Olá.;+Me+chamo+Tiago+Ítalo.;Eu+sou;Full+Stack+Web+Developer.;Analista+e+Desenvolvedor+de+Sistemas.;Analista+de+Banco+de+Dados.)](https://git.io/typing-svg)
 
@@ -34,4 +34,4 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e8cd&height=90&section=footer"/>
