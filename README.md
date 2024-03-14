@@ -23,7 +23,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/tiago-italo-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=000"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/portfolio%20-F7DF1E?style=for-the-badge&logo=About.me&logoColor=000"</a>
+<a href="https://tiagosoussa7.github.io/Portfolio-Tiago/" target="_blank"><img src="https://img.shields.io/badge/portfolio%20-F7DF1E?style=for-the-badge&logo=About.me&logoColor=000"</a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=0d1117&color=00e8cd&line=00e8cd&point=e7e709&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
