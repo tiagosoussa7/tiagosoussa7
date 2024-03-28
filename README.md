@@ -26,7 +26,7 @@
 <a href="https://tiagosoussa7.github.io/Portfolio-Tiago/" target="_blank"><img src="https://img.shields.io/badge/portfolio%20-F7DF1E?style=for-the-badge&logo=About.me&logoColor=000"</a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=00e8cd&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <div align="center">
