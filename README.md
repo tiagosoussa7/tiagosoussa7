@@ -26,7 +26,8 @@
 <a href="https://tiagosoussa7.github.io/Portfolio-Tiago/" target="_blank"><img src="https://img.shields.io/badge/portfolio%20-F7DF1E?style=for-the-badge&logo=About.me&logoColor=000"</a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagosoussa7&bg_color=0d1117&color=00e8cd&line=00e8cd&point=e7e709&area=true&hide_border=true)]
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagosoussa7&show_icons=true&theme=radical&count_private=true)
+
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
